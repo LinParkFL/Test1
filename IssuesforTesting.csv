@@ -1,0 +1,19 @@
+Reason,Weight
+Deploying Feature Branches,30
+Not Following Post-Deployment Test Strategy,25
+Lack of Proper Support Model,23
+Uncoordinated Adhoc Deployments,20
+E2E Tests not Part of Jules Build,18
+Limited Use of Contract Testing,17
+Limited Use of Performance Testing,15
+Minimal Feature Flag Usage,13
+Kafka Topic Issues,12
+No UAT Change Control,10
+Lack of Focus on Quality Standards,10
+No Consistent Test Strategy,8
+Incomplete Unit Test Coverage,6
+No Central Test Calendar,5
+Lack Chaos Engineering Strategy,4
+Different Infrastructure,3
+Data Quality,2
+Mixed Environment Connections,1
